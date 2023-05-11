@@ -13,6 +13,7 @@
     --nav-link-color: var(var(--secondary-color));
     --nav-hover-link-color: #0004ffc7;
     --nav-hover-bg-color: #bfc2db;
+    width: 100%;
 }
 
 body {
