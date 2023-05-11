@@ -9,8 +9,8 @@
     --heading-font: 'Darumadrop One', cursive;
     --paragraph-font: 'Montserrat', sans-seri;
     
-    --nav-bg-color: var(var(--accent-color));
-    --nav-link-color: var(var(--secondary-color));
+    --nav-bg-color: #004429;
+    --nav-link-color: #181a73;
     --nav-hover-link-color: #0004ffc7;
     --nav-hover-bg-color: #bfc2db;
 }
@@ -58,7 +58,6 @@ article img {
     float: right;
     width: 300px;
     height: auto;
-    size-adjust: auto;
 }
 
 article {
