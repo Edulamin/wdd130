@@ -9,6 +9,11 @@ nav {
     padding: 10px;
 }
 
+h1{
+    background-color: steelblue;
+    padding: 10px;
+}
+
 nav a {
     color: white;
     display: block;
@@ -16,7 +21,8 @@ nav a {
 }
 
 h1 {
-    color: steelblue;
+    color: white;
+    margin-left: 25px;
 }
 
 main img {
@@ -26,11 +32,13 @@ main img {
     border: 1px solid steelblue;
     padding: 2px;
     box-shadow: 0 0 30px gray;
-    float: right;
+    float: inline-start;
+    margin: 30px
 }
 
 p {
     padding: 2px;
+    margin-left: 25px;
 }
 
 main {
